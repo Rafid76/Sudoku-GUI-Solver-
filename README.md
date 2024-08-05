@@ -8,8 +8,7 @@ A Sudoku game and solver implemented in Python using Pygame. This project featur
 - Solver: Automatically solve the Sudoku puzzle using a backtracking algorithm.
 - Graphical Interface: Visual representation of the Sudoku board with interactive features.
 
-# Usage
-## Game Controls
+# Game Controls
 - Number Keys (1-9): Select a number to input into the selected cell.
 - Delete Key: Clear the selected cell.
 - Spacebar: Trigger the solver to solve the puzzle.
